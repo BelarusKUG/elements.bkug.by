@@ -1,0 +1,15 @@
+= elements.bkug.by
+
+[verse, Anonymous User Group Leader, Building User Group's branding repository]
+Three logos for Meetups under the sky,
+Seven for Conferences in their halls of stone,
+Nine for Participants and other Allies,
+One for the Group: it's heart & backbone
+In the Land of GitHub where we collaborate.
+One Place to rule them all, One Place to find them,
+One Place to bring them all and in the darkness bind them
+In the Land of GitHub where we collaborate.
+
+== Font
+
+The font used on the https://blog.jetbrains.com/kotlin/2017/05/new-style-for-user-groups[official logos] seems to be https://fonts.adobe.com/fonts/proxima-nova[Proxima Nova].
