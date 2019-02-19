@@ -10,6 +10,9 @@ One Place to rule them all, One Place to find them,
 One Place to bring them all and in the darkness bind them
 In the Land of GitHub where we collaborate.
 
-== Font
+== JetBrains logos and fonts
 
-The font used on the https://blog.jetbrains.com/kotlin/2017/05/new-style-for-user-groups[official Kotlin logos] seems to be https://fonts.adobe.com/fonts/proxima-nova[Proxima Nova].
+…are available https://www.jetbrains.com/company/press[here].
+Read https://www.jetbrains.com/company/brand[Brand Guidelines] first.
+The https://www.jetbrains.com/company/brand/#fonts[font] is https://www.typography.com/fonts/gotham/overview/[Gotham], https://fonts.adobe.com/fonts/proxima-nova[Proxima Nova] works as well.
+Use Arial as last resort.
