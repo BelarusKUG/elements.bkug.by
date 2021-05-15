@@ -10,6 +10,12 @@ One Place to rule them all, One Place to find them,
 One Place to bring them all and in the darkness bind them
 In the Land of GitHub where we collaborate.
 
+== Kotlin press kit
+
+…is available at https://kotlinlang.org/assets/kotlin-media-kit.pdf[here].
+There is a link to the https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip[official Kotlin assets] at the end of the doc.
+Make sure to follow the guidelines!
+
 == JetBrains logos and fonts
 
 …are available https://www.jetbrains.com/company/press[here].
